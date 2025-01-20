@@ -46,8 +46,3 @@ Six models were implemented:
 ## Key Findings
 Improving data quality and adding route-specific features could enhance predictions for overlapping transport modes.
 Balancing the dataset to address underrepresented modes like motorcycles can improve model accuracy.
-
-## Future Directions
-Incorporate advanced modeling techniques for better handling of public transport modes.
-Use additional contextual features, such as time of day or route characteristics.
-Explore real-time applications to support urban mobility solutions.
