@@ -1,4 +1,10 @@
 # Travel Habits ML Project
+
+---
+<div align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWk5aHFxdWFmN2xnZWZ3MmZxZThwZmRhMGI3dndkNmdqbDY4YmtndyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rLEiCb16Ffyqk/giphy.gif" alt="giphy">
+</div>
+
 ## Overview
 This project analyzes household travel survey data from Israel to predict the main mode of transportation for individuals. Using a variety of machine learning models and clustering techniques, the project uncovers valuable insights about travel behaviors and patterns. These insights can guide urban transportation planning and improve mobility solutions.
 
