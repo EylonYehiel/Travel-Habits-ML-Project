@@ -29,11 +29,11 @@ Six models were implemented:
 
 **Random Forest:** Achieved the highest performances (84% accuracy).
 
-**Neural Network:** Used for capturing complex patterns, with a best architecture tailored for the dataset.
+**Neural Network:** Used for capturing complex patterns with the best architecture tailored for the dataset.
 
 **Logistic Regression:** Established as a baseline model.
 
-**XGBoost:** Provided high performance but had a longer runtime.
+**XGBoost:** Provided high performance but had longer runtime.
 
 **LightGBM:** Balanced efficiency and accuracy, ideal for large-scale applications.
 
